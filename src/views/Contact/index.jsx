@@ -1,6 +1,6 @@
-import './ContactPage.scss'
 import { useEffect } from 'react';
 import ContactBanner from './ContactBanner';
+import './ContactPage.css'
 
 function ContactPage() {
 

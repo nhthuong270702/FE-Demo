@@ -1,7 +1,7 @@
 import { useEffect } from 'react';
 import PostBanner from './PostBanner';
 import PostContent from './PostContent';
-import './PostPage.scss';
+import './PostPage.css';
 
 function PostPage() {
 

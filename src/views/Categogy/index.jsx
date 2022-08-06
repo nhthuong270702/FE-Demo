@@ -1,6 +1,6 @@
 import CatelogyBanner from "./CategogyBanner";
 import CategogyContent from "./CategogyContent";
-import './Categogy.scss';
+import './Categogy.css';
 import { useEffect } from "react";
 
 function CategogyPage() {

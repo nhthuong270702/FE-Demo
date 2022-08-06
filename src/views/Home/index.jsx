@@ -1,7 +1,7 @@
 import HomeSlider from './HomeSlider';
 import HomeContent from './HomeContent';
-import './HomePage.scss'
 import { useEffect } from 'react';
+import './HomePage.css'
 
 function HomePage() {
 

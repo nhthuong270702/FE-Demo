@@ -1,5 +1,5 @@
 import { useEffect } from 'react';
-import './NotFound.scss';
+import './NotFound.css';
 
 function NotFound() {
 
